@@ -1,5 +1,6 @@
 # Minecraft Project
-
+Team
+Ariel Xiao／Jenny Zeng／Xin Shen
 This repo only works for Mac.
 ## set up
 ### install Malmo

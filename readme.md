@@ -1,6 +1,9 @@
 # Minecraft Project
 Team
-Ariel Xiao／Jenny Zeng／Xin Shen
+Ariel Xiao／Jenny Zeng／Xin Shen.
+
+watch the youtube video: https://www.youtube.com/watch?v=a8_lpTQD7Dw
+
 This repo only works for Mac.
 ## set up
 ### install Malmo

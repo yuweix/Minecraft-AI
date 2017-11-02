@@ -1,6 +1,5 @@
-# CS175 Minecraft Project
+# Minecraft Project
 
-This GitHub repository is required for CS175 to keep track of the process.
 This repo only works for Mac.
 ## set up
 ### install Malmo

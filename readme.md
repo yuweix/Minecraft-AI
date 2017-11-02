@@ -1,5 +1,5 @@
 # Minecraft Project
-watch the youtube video: https://www.youtube.com/watch?v=a8_lpTQD7Dw \newline
+watch the youtube video: https://www.youtube.com/watch?v=a8_lpTQD7Dw<br />
 See summary.pdf for details.
 
 This repo only works for Mac.

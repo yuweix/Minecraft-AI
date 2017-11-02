@@ -1,0 +1,15 @@
+###########
+# site.title
+
+title:    'The Adventures of Tintin'
+subtitle: 'Minecraft Multi-Objects Recognizer'
+
+
+#########################
+# more settings
+
+markdown: kramdown
+
+exclude:
+- README.md
+- LICENSE.md
